@@ -7,12 +7,10 @@ data/
 *.feather
 
 # ── Outputs ───────────────────────────────────────────────────────────────────
-# outputs/models/
-# outputs/figures/
+
 outputs/reports/
-outputs/
-*.csv
-*.xlsx
+outputs/*.csv
+outputs/*.xlsx
 
 # ── Environment & Secrets ─────────────────────────────────────────────────────
 .env
