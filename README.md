@@ -246,7 +246,7 @@ app/app.py                 Streamlit dashboard (live inference + charts)
 
 ## Author
 
-**Abhijit Sinha**
+**Ananta Sinha**
 Data Scientist. [LinkedIn](https://www.linkedin.com/in/ananta-sinha-ph-d-7981b185) | [GitHub](https://github.com/ananta-mimo)
 
 ---
