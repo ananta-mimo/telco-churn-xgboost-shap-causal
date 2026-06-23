@@ -32,7 +32,6 @@ DATA_PATH = os.path.join(ROOT, "data",    "Telco_customer_churn.xlsx")
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title = "Telco Churn Intelligence",
-    page_icon  = "📡",
     layout     = "wide",
     initial_sidebar_state = "expanded",
 )
