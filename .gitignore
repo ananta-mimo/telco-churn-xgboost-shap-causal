@@ -52,8 +52,8 @@ desktop.ini
 *.sublime-workspace
 
 # ── Model artifacts (large binaries) ─────────────────────────────────────────
-*.pkl
-*.pickle
+
+
 *.joblib
 *.h5
 *.pt
