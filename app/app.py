@@ -609,7 +609,7 @@ def page_model():
 # ── Sidebar navigation ────────────────────────────────────────────────────────
 def main():
     with st.sidebar:
-        st.markdown("### 📡 Telco Churn")
+        st.markdown("### Telco Churn")
         st.markdown("**Intelligence Dashboard**")
         st.markdown("---")
 
