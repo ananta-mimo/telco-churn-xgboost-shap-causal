@@ -68,7 +68,7 @@ IBM_Telco Customer Churn/
 
 ## Dataset
 
-**Source:** IBM Sample Data Sets via Kaggle. [IBM Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+**Source:** IBM Sample Data Sets via Kaggle. [IBM Telco Customer Churn](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset)
 
 7,043 customers, 33 features covering:
 
@@ -247,7 +247,7 @@ app/app.py                 Streamlit dashboard (live inference + charts)
 ## Author
 
 **Abhijit Sinha**
-Data Scientist. [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+Data Scientist. [LinkedIn](https://www.linkedin.com/in/ananta-sinha-ph-d-7981b185) | [GitHub](https://github.com/ananta-mimo)
 
 ---
 
