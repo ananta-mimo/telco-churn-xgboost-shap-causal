@@ -7,8 +7,8 @@ data/
 *.feather
 
 # ── Outputs ───────────────────────────────────────────────────────────────────
-outputs/models/
-outputs/figures/
+# outputs/models/
+# outputs/figures/
 outputs/reports/
 outputs/
 *.csv
