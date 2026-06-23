@@ -107,14 +107,14 @@ st.markdown("""
   }
   .risk-desc { font-size: 0.82rem; color: #aaa; margin-top: 10px; }
 
-  .section-header {
-    font-size: 1.1rem;
-    font-weight: 700;
-    color: #e0e0e0;
-    border-left: 3px solid #4878CF;
-    padding-left: 10px;
-    margin: 20px 0 12px 0;
-  }
+    .section-header {
+        font-size: 1.1rem;
+        font-weight: 700;
+        color: #1e293b;        ← dark slate, readable on both light and dark
+        border-left: 3px solid #4878CF;
+        padding-left: 10px;
+        margin: 20px 0 12px 0;
+    }
 
   div[data-testid="stSidebar"] {
     background: #0a0a0f;
