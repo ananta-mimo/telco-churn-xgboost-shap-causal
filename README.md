@@ -2,7 +2,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://telco-churn-xgboost-shap.streamlit.app/)
 
-**Live app:** https://telco-churn-xgboost-shap.streamlit.app/
+**Live app:**  **https://telco-churn-xgboost-shap.streamlit.app/**
 
 
 **Predictive modeling, SHAP explainability, and causal inference on the IBM Telco Customer Churn dataset.**
