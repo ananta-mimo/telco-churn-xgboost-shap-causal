@@ -165,7 +165,8 @@ shap_values = explainer.shap_values(X)
 
 ## Running the Streamlit App
 
-Run notebooks 01 through 04 first to generate all figures and the model artifacts. Then:
+Run notebooks 01 through 04 first to generate all figures and the model artifacts. 
+Then:
 
 ```bash
 streamlit run app/app.py
