@@ -210,7 +210,7 @@ The top two self-reported churn reasons are competitor-related. Retention strate
 
 ---
 
-## Tech Stack
+## Tools Used
 
 | Category | Tools |
 |----------|-------|
@@ -227,7 +227,7 @@ The top two self-reported churn reasons are competitor-related. Retention strate
 ## Project Notebook Flow
 
 ```
-Raw Excel
+Raw Data in Excel
     |
     v
 01_exploratory_analysis    EDA, segment charts, findings
