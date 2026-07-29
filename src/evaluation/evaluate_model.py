@@ -1,4 +1,5 @@
 """
+Reusable function library
 src/evaluation/evaluate_model.py
 ----------------------------------
 Reusable evaluation functions for the IBM Telco Churn project.
