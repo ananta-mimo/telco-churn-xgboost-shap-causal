@@ -45,7 +45,7 @@ st.markdown("""
 
   .metric-card {
     background: #f5f6fa;
-    border: 1px solid #f5f6fa;
+    border: 1px solid #2d2d2d;
     border-radius: 10px;
     padding: 20px 24px;
     text-align: center;
