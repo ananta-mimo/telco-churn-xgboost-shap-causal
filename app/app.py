@@ -44,7 +44,7 @@ st.markdown("""
   html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 
   .metric-card {
-    background: #0f1117;
+    background: #f5f6fa;
     border: 1px solid #2d2d2d;
     border-radius: 10px;
     padding: 20px 24px;
@@ -55,18 +55,18 @@ st.markdown("""
     font-weight: 600;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #888;
+    color: #1a1a1a;
     margin-bottom: 6px;
   }
   .metric-card .value {
     font-size: 2rem;
     font-weight: 700;
-    color: #ffffff;
+    color: #1a1a1a;
     font-family: 'JetBrains Mono', monospace;
   }
   .metric-card .sub {
     font-size: 0.78rem;
-    color: #666;
+    color: #1a1a1a;
     margin-top: 4px;
   }
 
