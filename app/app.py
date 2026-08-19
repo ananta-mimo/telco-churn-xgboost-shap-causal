@@ -7,7 +7,7 @@ Run from the project root:
     streamlit run app/app.py
 
 Pages:
-  1. Overview       - project summary + key EDA charts
+  1. Overview       - project summary + key Exploratory Data Analysis charts
   2. Churn Predictor - individual customer scoring + SHAP waterfall
   3. Model Performance - evaluation metrics + curves
 """
