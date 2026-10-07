@@ -7,7 +7,7 @@
 
 **Predictive modeling, SHAP explainability, and causal inference on the IBM Telco Customer Churn dataset.**
 
-This project goes beyond a standard churn classifier. It combines three analytical layers to answer three distinct business questions:
+This project is a step ahead of a standard churn classifier. It combines three analytical layers to answer three distinct business questions:
 
 | Layer | Question answered |
 |-------|------------------|
